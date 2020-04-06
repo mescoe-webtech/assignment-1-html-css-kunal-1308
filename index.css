@@ -1,0 +1,63 @@
+<style>
+      div.Name{
+        border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.cl{
+         border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.prn{
+         border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.email{
+         border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.phone{
+         border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.dob{
+        
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.sft{
+         border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.Branch{
+         border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      div.college{
+         border-radius:5px;
+        background-color: #ffffff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+      }
+      .button1:hover {opacity: 0.6}
+      .button2:hover {opacity: 0.6}
+      div.form p {
+        background: transparent;
+        font-weight: bold;
+        color: #000000;
+      }
+      </style>
